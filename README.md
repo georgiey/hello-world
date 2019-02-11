@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi!
+
+I'm Georgie, and I have a low-key caffeine addiction 
